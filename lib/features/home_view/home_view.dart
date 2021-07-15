@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:voice_and_face_detecting/features/google_ml_vision/google_ml_vision_view.dart';
-import 'package:voice_and_face_detecting/features/noise_meter_view.dart';
-import 'package:voice_and_face_detecting/features/speech_to_text_view.dart';
+import 'package:voice_and_face_detecting/features/noise_meter/noise_meter_view.dart';
+import 'package:voice_and_face_detecting/features/speech_to_text/speech_to_text_view.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);
